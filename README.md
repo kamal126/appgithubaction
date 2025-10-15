@@ -1,1 +1,1 @@
-# This is Python app
+# This is a Python app for CI
